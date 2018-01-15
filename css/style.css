@@ -1,0 +1,13 @@
+h2 {
+	color: magenta;
+	background: yellow;
+	text-align: right;
+}
+.heading {
+	color: green;
+}
+#kingduck {
+	background-color: purple;
+	color: magenta;
+	border: 2px solid magenta;
+}
